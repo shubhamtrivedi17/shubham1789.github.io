@@ -1,3 +1,3 @@
 ## Curriculum vitae
 
-[CV]({{ site.url }}/cv.pdf)
+[CV]({{ site.url }}/pdfs/cv.pdf)
