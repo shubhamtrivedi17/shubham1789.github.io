@@ -3,3 +3,5 @@ title: Shubham TRIVEDI
 themeColor: blue
 #show_downloads: false
 google_analytics: UA-111533371-1
+
+theme: jekyll-theme-minimal
