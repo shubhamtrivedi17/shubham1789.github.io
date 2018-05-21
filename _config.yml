@@ -1,9 +1,9 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: sharu725/hagura
-title: Shubham TRIVEDI
-#themeColor: blue
-#show_downloads: false
-#google_analytics: UA-111533371-1
+# For remothe themes: commented for now, first install bundle (Gemfile)
+#plugins:
+#  - jekyll-remote-theme
+#remote_theme: sharu725/hagura
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
+title: Shubham TRIVEDI
+show_downloads: false
+google_analytics: UA-111533371-1
