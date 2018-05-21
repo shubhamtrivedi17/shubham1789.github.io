@@ -1,7 +1,7 @@
-remote_theme: alexcarpenter/material-jekyll-theme
+remote_theme: sharu725/hagura
 title: Shubham TRIVEDI
-themeColor: blue
+#themeColor: blue
 #show_downloads: false
-google_analytics: UA-111533371-1
+#google_analytics: UA-111533371-1
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
