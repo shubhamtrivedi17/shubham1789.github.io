@@ -1,6 +1,6 @@
 ## List of Publications
 
-**Trivedi, S.** and Kurita, N. and Yoshida, Y. and Shiohara, H. and Tajiri, S. *Tests on the drift capacity of RC beams under cyclic loading.* Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Los Angeles, CA. 2018. [PDF]({{ site.url }}/pdfs/2018_Trivedi_Experimental investigation on ultimate drift capacity of RC beams under cyclic.pdf)
+**Trivedi, S.** and Kurita, N. and Yoshida, Y. and Shiohara, H. and Tajiri, S. *Experimental investigation on ultimate drift capacity of RC beams under cyclic loading.* Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Los Angeles, CA. 2018. [PDF]({{ site.url }}/pdfs/2018_Trivedi_Experimental investigation on ultimate drift capacity of RC beams under cyclic.pdf)
 
 **Trivedi, S.** and Shiohara, H. and Tajiri, S. *Experimental investigation on the effect of bar buckling on ultimate drift capacity in reinforced concrete beams.* Proceedings of the JAEE Annual Meeting, Tokyo, 2017. [PDF]({{ site.url }}/pdfs/2017_Trivedi_Experimental Investigation on the Effect of Bar Buckling on Ultimate Drift.pdf)
 
