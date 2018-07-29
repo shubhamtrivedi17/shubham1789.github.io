@@ -1,5 +1,7 @@
 ## List of Publications
 
+**Trivedi, S.** and Kurita, N. and Yoshida, Y. and Shiohara, H. and Tajiri, S. *Tests on the drift capacity of RC beams under cyclic loading.* Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Los Angeles, CA. 2018. [PDF]({{ site.url }}/pdfs/2018_Trivedi_Experimental investigation on ultimate drift capacity of RC beams under cyclic.pdf)
+
 **Trivedi, S.** and Shiohara, H. and Tajiri, S. *Experimental Investigation on the Effect of Bar Buckling on Ultimate Drift Capacity in Reinforced Concrete Beams.* Proceedings of the JAEE Annual Meeting, Tokyo, 2017. [PDF]({{ site.url }}/pdfs/2017_Trivedi_Experimental Investigation on the Effect of Bar Buckling on Ultimate Drift.pdf)
 
 **Trivedi, S.** and Shiohara, H. *Response-spectrum based pulse identification for near-fault earthquake ground motions.* Proceedings of the AIJ Annual Convention, Hiroshima, 2017. [PDF]({{ site.url }}/pdfs/2017_Trivedi_21120 Pulse identification for near-fault earthquake ground motion using.pdf)
