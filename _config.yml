@@ -1,4 +1,4 @@
-# For remothe themes: commented for now, first install bundle (Gemfile)
+# For remote themes: commented for now, first install bundle (Gemfile)
 #plugins:
 #  - jekyll-remote-theme
 #remote_theme: sharu725/hagura
