@@ -4,6 +4,17 @@
 
 **Trivedi, S.** and Shiohara, H. and Tajiri, S. *Dataset on reverse cyclic testing of reinforced concrete beams.* (in preparation).
 
+  \cvpub
+    {Trivedi, S., Shiohara, H. and Tajiri, S.} % Authors
+    {Experimental investigation on ultimate drift capacity of RC beams subjected to reverse cyclic loading: Photogrammetric observations.} % Title
+    {Proceedings of the 15th Japan Earthquake Engineering Symposium, Sendai.} % Journal
+    {2018} % Date(s)
+    {Conference}  % Type
+
+Yoshida, Y. and **Trivedi, S.** and Shiohara, H. and Tajiri, S. *Experimental investigation on ultimate drift capacity of RC beams subjected to reverse cyclic loading.* Proceedings of the 15th Japan Earthquake Engineering Symposium, Sendai, 2018.
+
+**Trivedi, S.** and Shiohara, H. and Tajiri, S. *Experimental investigation on ultimate drift capacity of RC beams subjected to reverse cyclic loading: Photogrammetric observations.* Proceedings of the 15th Japan Earthquake Engineering Symposium, Sendai, 2018.
+
 **Trivedi, S.** *Experimental investigation of mechanism at ultimate drift capacity in reinforced concrete beams subjected to reversed cyclic loading.* Ph.D. Thesis, University of Tokyo, 2018. [PDF]({{ site.url }}/pdfs/2018_Trivedi_Experimental investigation of mechanism at ultimate drift capacity in.pdf)
 
 **Trivedi, S.** and Kurita, N. and Yoshida, Y. and Shiohara, H. and Tajiri, S. *Experimental investigation on ultimate drift capacity of RC beams under cyclic loading.* Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research Institute, Los Angeles, CA. 2018. [PDF]({{ site.url }}/pdfs/2018_Trivedi_Experimental investigation on ultimate drift capacity of RC beams under cyclic.pdf)
